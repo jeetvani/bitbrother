@@ -1,8 +1,8 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import Login from './Screens/Login'
-import SignUp from './Screens/SIgnUp';
+import Login from './Login'
+import SignUp from './SIgnUp';
 import "react-native-gesture-handler"
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
